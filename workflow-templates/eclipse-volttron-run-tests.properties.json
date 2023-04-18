@@ -1,0 +1,12 @@
+{
+  "name": "Eclipse VOLTTRON Organization Workflow",
+  "description": "Eclipse VOLTTRON Organization Run Tests Workflow",
+  "iconName": "bug-icon",
+  "categories": [
+      "Testing",
+      "Python"
+  ],
+  "filePatterns": [
+      "^pyproject.toml$"
+  ]
+}
