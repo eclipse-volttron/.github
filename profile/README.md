@@ -14,7 +14,7 @@ The following repositories represent the key components of the Eclipse VOLTTRON 
 | [volttron-core](https://github.com/eclipse-volttron/volttron-core) | Core VOLTTRON platform | ![Release](https://img.shields.io/github/v/release/eclipse-volttron/volttron-core?include_prereleases&label=) |
 | [volttron-testing](https://github.com/eclipse-volttron/volttron-testing) | Testing framework | ![Release](https://img.shields.io/github/v/release/eclipse-volttron/volttron-testing?include_prereleases&label=) |
 | [volttron-lib-zmq](https://github.com/eclipse-volttron/volttron-lib-zmq) | ZeroMQ library | ![Release](https://img.shields.io/github/v/release/eclipse-volttron/volttron-lib-zmq?include_prereleases&label=) |
-| [volttron](https://github.com/eclipse-volttron/volttron) | VOLTTRON repository | ![Release](https://img.shields.io/github/v/release/eclipse-volttron/volttron-zmq?include_prereleases&label=) |
+| [volttron](https://github.com/eclipse-volttron/volttron) | VOLTTRON repository | ![Release](https://img.shields.io/github/v/release/eclipse-volttron/volttron?include_prereleases&label=) |
 | [volttron-zmq](https://github.com/eclipse-volttron/volttron-zmq) | ZeroMQ message bus | ![Release](https://img.shields.io/github/v/release/eclipse-volttron/volttron-zmq?include_prereleases&label=) |
 
 ### Platform Driver Related
