@@ -10,42 +10,42 @@ The following repositories represent the key components of the Eclipse VOLTTRON 
 
 | Repository | Description | Latest Release |
 |------------|-------------|----------------|
-| [volttron-lib-auth](https://github.com/eclipse-volttron/volttron-lib-auth) | Authentication library | ![Release](https://img.shields.io/github/v/release/eclipse-volttron/volttron-lib-auth?include_prereleases&label=) |
-| [volttron-core](https://github.com/eclipse-volttron/volttron-core) | Core VOLTTRON platform | ![Release](https://img.shields.io/github/v/release/eclipse-volttron/volttron-core?include_prereleases&label=) |
-| [volttron-testing](https://github.com/eclipse-volttron/volttron-testing) | Testing framework | ![Release](https://img.shields.io/github/v/release/eclipse-volttron/volttron-testing?include_prereleases&label=) |
-| [volttron-lib-zmq](https://github.com/eclipse-volttron/volttron-lib-zmq) | ZeroMQ library | ![Release](https://img.shields.io/github/v/release/eclipse-volttron/volttron-lib-zmq?include_prereleases&label=) |
-| [volttron](https://github.com/eclipse-volttron/volttron) | VOLTTRON repository | ![Release](https://img.shields.io/github/v/release/eclipse-volttron/volttron?include_prereleases&label=) |
-| [volttron-zmq](https://github.com/eclipse-volttron/volttron-zmq) | ZeroMQ message bus | ![Release](https://img.shields.io/github/v/release/eclipse-volttron/volttron-zmq?include_prereleases&label=) |
+| [volttron-lib-auth](https://github.com/eclipse-volttron/volttron-lib-auth) | Authentication library | ![Release](https://img.shields.io/github/v/release/eclipse-volttron/volttron-lib-auth?include_prereleases&label=&cacheSeconds=300) |
+| [volttron-core](https://github.com/eclipse-volttron/volttron-core) | Core VOLTTRON platform | ![Release](https://img.shields.io/github/v/release/eclipse-volttron/volttron-core?include_prereleases&label=&cacheSeconds=300) |
+| [volttron-testing](https://github.com/eclipse-volttron/volttron-testing) | Testing framework | ![Release](https://img.shields.io/github/v/release/eclipse-volttron/volttron-testing?include_prereleases&label=&cacheSeconds=300) |
+| [volttron-lib-zmq](https://github.com/eclipse-volttron/volttron-lib-zmq) | ZeroMQ library | ![Release](https://img.shields.io/github/v/release/eclipse-volttron/volttron-lib-zmq?include_prereleases&label=&cacheSeconds=300) |
+| [volttron](https://github.com/eclipse-volttron/volttron) | VOLTTRON repository | ![Release](https://img.shields.io/github/v/release/eclipse-volttron/volttron-zmq?include_prereleases&label=&cacheSeconds=300) |
+| [volttron-zmq](https://github.com/eclipse-volttron/volttron-zmq) | ZeroMQ message bus | ![Release](https://img.shields.io/github/v/release/eclipse-volttron/volttron-zmq?include_prereleases&label=&cacheSeconds=300) |
 
 ### Platform Driver Related
 
 | Repository | Description | Latest Release |
 |------------|-------------|----------------|
-| [lib-protocol-proxy-bacnet](https://github.com/eclipse-volttron/lib-protocol-proxy-bacnet) | BACnet protocol proxy library | ![Release](https://img.shields.io/github/v/release/eclipse-volttron/lib-protocol-proxy-bacnet?include_prereleases&label=) |
-| [lib-protocol-proxy](https://github.com/eclipse-volttron/lib-protocol-proxy) | Protocol proxy library | ![Release](https://img.shields.io/github/v/release/eclipse-volttron/lib-protocol-proxy?include_prereleases&label=) |
-| [volttron-lib-bacnet-driver](https://github.com/eclipse-volttron/volttron-lib-bacnet-driver) | BACnet driver library | ![Release](https://img.shields.io/github/v/release/eclipse-volttron/volttron-lib-bacnet-driver?include_prereleases&label=) |
-| [volttron-bacnet-proxy](https://github.com/eclipse-volttron/volttron-bacnet-proxy) | BACnet proxy agent | ![Release](https://img.shields.io/github/v/release/eclipse-volttron/volttron-bacnet-proxy?include_prereleases&label=) |
-| [volttron-platform-driver](https://github.com/eclipse-volttron/volttron-platform-driver) | Platform driver agent | ![Release](https://img.shields.io/github/v/release/eclipse-volttron/volttron-platform-driver?include_prereleases&label=) |
-| [bacnet-scan-tool](https://github.com/eclipse-volttron/bacnet-scan-tool) | BACnet scanning tool | ![Release](https://img.shields.io/github/v/release/eclipse-volttron/bacnet-scan-tool?include_prereleases&label=) |
-| [volttron-lib-fake-driver](https://github.com/eclipse-volttron/volttron-lib-fake-driver) | Fake driver for testing | ![Release](https://img.shields.io/github/v/release/eclipse-volttron/volttron-lib-fake-driver?include_prereleases&label=) |
-| [volttron-lib-base-driver](https://github.com/eclipse-volttron/volttron-lib-base-driver) | Base driver library | ![Release](https://img.shields.io/github/v/release/eclipse-volttron/volttron-lib-base-driver?include_prereleases&label=) |
+| [lib-protocol-proxy-bacnet](https://github.com/eclipse-volttron/lib-protocol-proxy-bacnet) | BACnet protocol proxy library | ![Release](https://img.shields.io/github/v/release/eclipse-volttron/lib-protocol-proxy-bacnet?include_prereleases&label=&cacheSeconds=300) |
+| [lib-protocol-proxy](https://github.com/eclipse-volttron/lib-protocol-proxy) | Protocol proxy library | ![Release](https://img.shields.io/github/v/release/eclipse-volttron/lib-protocol-proxy?include_prereleases&label=&cacheSeconds=300) |
+| [volttron-lib-bacnet-driver](https://github.com/eclipse-volttron/volttron-lib-bacnet-driver) | BACnet driver library | ![Release](https://img.shields.io/github/v/release/eclipse-volttron/volttron-lib-bacnet-driver?include_prereleases&label=&cacheSeconds=300) |
+| [volttron-bacnet-proxy](https://github.com/eclipse-volttron/volttron-bacnet-proxy) | BACnet proxy agent | ![Release](https://img.shields.io/github/v/release/eclipse-volttron/volttron-bacnet-proxy?include_prereleases&label=&cacheSeconds=300) |
+| [volttron-platform-driver](https://github.com/eclipse-volttron/volttron-platform-driver) | Platform driver agent | ![Release](https://img.shields.io/github/v/release/eclipse-volttron/volttron-platform-driver?include_prereleases&label=&cacheSeconds=300) |
+| [bacnet-scan-tool](https://github.com/eclipse-volttron/bacnet-scan-tool) | BACnet scanning tool | ![Release](https://img.shields.io/github/v/release/eclipse-volttron/bacnet-scan-tool?include_prereleases&label=&cacheSeconds=300) |
+| [volttron-lib-fake-driver](https://github.com/eclipse-volttron/volttron-lib-fake-driver) | Fake driver for testing | ![Release](https://img.shields.io/github/v/release/eclipse-volttron/volttron-lib-fake-driver?include_prereleases&label=&cacheSeconds=300) |
+| [volttron-lib-base-driver](https://github.com/eclipse-volttron/volttron-lib-base-driver) | Base driver library | ![Release](https://img.shields.io/github/v/release/eclipse-volttron/volttron-lib-base-driver?include_prereleases&label=&cacheSeconds=300) |
 
 ### Historians
 
 | Repository | Description | Latest Release |
 |------------|-------------|----------------|
-| [volttron-lib-sql-historian](https://github.com/eclipse-volttron/volttron-lib-sql-historian) | SQL historian library | ![Release](https://img.shields.io/github/v/release/eclipse-volttron/volttron-lib-sql-historian?include_prereleases&label=) |
-| [volttron-sqlite-historian](https://github.com/eclipse-volttron/volttron-sqlite-historian) | SQLite historian | ![Release](https://img.shields.io/github/v/release/eclipse-volttron/volttron-sqlite-historian?include_prereleases&label=) |
-| [volttron-postgresql-historian](https://github.com/eclipse-volttron/volttron-postgresql-historian) | PostgreSQL historian | ![Release](https://img.shields.io/github/v/release/eclipse-volttron/volttron-postgresql-historian?include_prereleases&label=) |
-| [volttron-lib-base-historian](https://github.com/eclipse-volttron/volttron-lib-base-historian) | Base historian library | ![Release](https://img.shields.io/github/v/release/eclipse-volttron/volttron-lib-base-historian?include_prereleases&label=) |
+| [volttron-lib-sql-historian](https://github.com/eclipse-volttron/volttron-lib-sql-historian) | SQL historian library | ![Release](https://img.shields.io/github/v/release/eclipse-volttron/volttron-lib-sql-historian?include_prereleases&label=&cacheSeconds=300) |
+| [volttron-sqlite-historian](https://github.com/eclipse-volttron/volttron-sqlite-historian) | SQLite historian | ![Release](https://img.shields.io/github/v/release/eclipse-volttron/volttron-sqlite-historian?include_prereleases&label=&cacheSeconds=300) |
+| [volttron-postgresql-historian](https://github.com/eclipse-volttron/volttron-postgresql-historian) | PostgreSQL historian | ![Release](https://img.shields.io/github/v/release/eclipse-volttron/volttron-postgresql-historian?include_prereleases&label=&cacheSeconds=300) |
+| [volttron-lib-base-historian](https://github.com/eclipse-volttron/volttron-lib-base-historian) | Base historian library | ![Release](https://img.shields.io/github/v/release/eclipse-volttron/volttron-lib-base-historian?include_prereleases&label=&cacheSeconds=300) |
 
 ### Other Agents / Tools
 
 | Repository | Description | Latest Release |
 |------------|-------------|----------------|
-| [volttron-listener](https://github.com/eclipse-volttron/volttron-listener) | Simple listener agent example | ![Release](https://img.shields.io/github/v/release/eclipse-volttron/volttron-listener?include_prereleases&label=) |
-| [platform-lookup](https://github.com/eclipse-volttron/platform-lookup) | Platform lookup service | ![Release](https://img.shields.io/github/v/release/eclipse-volttron/platform-lookup?include_prereleases&label=) |
-| [volttron-ansible](https://github.com/eclipse-volttron/volttron-ansible) | Ansible playbooks for VOLTTRON | ![Release](https://img.shields.io/github/v/release/eclipse-volttron/volttron-ansible?include_prereleases&label=) |
+| [volttron-listener](https://github.com/eclipse-volttron/volttron-listener) | Simple listener agent example | ![Release](https://img.shields.io/github/v/release/eclipse-volttron/volttron-listener?include_prereleases&label=&cacheSeconds=300) |
+| [platform-lookup](https://github.com/eclipse-volttron/platform-lookup) | Platform lookup service | ![Release](https://img.shields.io/github/v/release/eclipse-volttron/platform-lookup?include_prereleases&label=&cacheSeconds=300) |
+| [volttron-ansible](https://github.com/eclipse-volttron/volttron-ansible) | Ansible playbooks for VOLTTRON | ![Release](https://img.shields.io/github/v/release/eclipse-volttron/volttron-ansible?include_prereleases&label=&cacheSeconds=300) |
 
 ## Resources
 
