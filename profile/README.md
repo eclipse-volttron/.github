@@ -16,8 +16,17 @@ The following repositories represent the key components of the Eclipse VOLTTRON 
 | [volttron-lib-zmq](https://github.com/eclipse-volttron/volttron-lib-zmq) | ZeroMQ library | ![Release](https://img.shields.io/github/v/release/eclipse-volttron/volttron-lib-zmq?include_prereleases&label=&cacheSeconds=300) |
 | [volttron](https://github.com/eclipse-volttron/volttron) | VOLTTRON repository | ![Release](https://img.shields.io/github/v/release/eclipse-volttron/volttron-zmq?include_prereleases&label=&cacheSeconds=300) |
 | [volttron-zmq](https://github.com/eclipse-volttron/volttron-zmq) | ZeroMQ message bus | ![Release](https://img.shields.io/github/v/release/eclipse-volttron/volttron-zmq?include_prereleases&label=&cacheSeconds=300) |
+| [volttron-lib-tree](https://github.com/eclipse-volttron/volttron-lib-tree) | VOLTTRON topic tree library | ![Release](https://img.shields.io/github/v/release/eclipse-volttron/volttron-lib-tree?include_prereleases&label=&cacheSeconds=300) |
 
-### Platform Driver Related
+### Tools and Utilities
+
+| Repository | Description | Latest Release |
+|------------|-------------|----------------|
+| [volttron-lib-web](https://github.com/eclipse-volttron/volttron-lib-web) | REST based VOLTTRON web endpoints | ![Release](https://img.shields.io/github/v/release/eclipse-volttron/volttron-lib-web?include_prereleases&label=&cacheSeconds=300) |
+| [platform-lookup](https://github.com/eclipse-volttron/platform-lookup) | Platform lookup service | ![Release](https://img.shields.io/github/v/release/eclipse-volttron/platform-lookup?include_prereleases&label=&cacheSeconds=300) |
+| [volttron-ansible](https://github.com/eclipse-volttron/volttron-ansible) | Ansible playbooks for VOLTTRON | ![Release](https://img.shields.io/github/v/release/eclipse-volttron/volttron-ansible?include_prereleases&label=&cacheSeconds=300) |
+
+### Platform Driver Agents and Libraries
 
 | Repository | Description | Latest Release |
 |------------|-------------|----------------|
@@ -29,7 +38,7 @@ The following repositories represent the key components of the Eclipse VOLTTRON 
 | [volttron-lib-fake-driver](https://github.com/eclipse-volttron/volttron-lib-fake-driver) | Fake driver for testing | ![Release](https://img.shields.io/github/v/release/eclipse-volttron/volttron-lib-fake-driver?include_prereleases&label=&cacheSeconds=300) |
 | [volttron-lib-base-driver](https://github.com/eclipse-volttron/volttron-lib-base-driver) | Base driver library | ![Release](https://img.shields.io/github/v/release/eclipse-volttron/volttron-lib-base-driver?include_prereleases&label=&cacheSeconds=300) |
 
-### Historians
+### Historian Agents and Libraries
 
 | Repository | Description | Latest Release |
 |------------|-------------|----------------|
@@ -38,13 +47,11 @@ The following repositories represent the key components of the Eclipse VOLTTRON 
 | [volttron-postgresql-historian](https://github.com/eclipse-volttron/volttron-postgresql-historian) | PostgreSQL historian | ![Release](https://img.shields.io/github/v/release/eclipse-volttron/volttron-postgresql-historian?include_prereleases&label=&cacheSeconds=300) |
 | [volttron-lib-base-historian](https://github.com/eclipse-volttron/volttron-lib-base-historian) | Base historian library | ![Release](https://img.shields.io/github/v/release/eclipse-volttron/volttron-lib-base-historian?include_prereleases&label=&cacheSeconds=300) |
 
-### Other Agents / Tools
+### Other Agents 
 
 | Repository | Description | Latest Release |
 |------------|-------------|----------------|
 | [volttron-listener](https://github.com/eclipse-volttron/volttron-listener) | Simple listener agent example | ![Release](https://img.shields.io/github/v/release/eclipse-volttron/volttron-listener?include_prereleases&label=&cacheSeconds=300) |
-| [platform-lookup](https://github.com/eclipse-volttron/platform-lookup) | Platform lookup service | ![Release](https://img.shields.io/github/v/release/eclipse-volttron/platform-lookup?include_prereleases&label=&cacheSeconds=300) |
-| [volttron-ansible](https://github.com/eclipse-volttron/volttron-ansible) | Ansible playbooks for VOLTTRON | ![Release](https://img.shields.io/github/v/release/eclipse-volttron/volttron-ansible?include_prereleases&label=&cacheSeconds=300) |
 
 ## Resources
 
