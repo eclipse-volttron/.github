@@ -10,9 +10,8 @@ The following repositories represent the key components of the Eclipse VOLTTRON 
 
 | Repository | Description | Latest Release |
 |------------|-------------|----------------|
-| [volttron-lib-auth](https://github.com/eclipse-volttron/volttron-lib-auth) | Authentication library | ![Release](https://img.shields.io/github/v/release/eclipse-volttron/volttron-lib-auth?include_prereleases&label=&cacheSeconds=300) |
 | [volttron-core](https://github.com/eclipse-volttron/volttron-core) | Core VOLTTRON platform | ![Release](https://img.shields.io/github/v/release/eclipse-volttron/volttron-core?include_prereleases&label=&cacheSeconds=300) |
-| [volttron-testing](https://github.com/eclipse-volttron/volttron-testing) | Testing framework | ![Release](https://img.shields.io/github/v/release/eclipse-volttron/volttron-testing?include_prereleases&label=&cacheSeconds=300) |
+| [volttron-lib-auth](https://github.com/eclipse-volttron/volttron-lib-auth) | Authentication library | ![Release](https://img.shields.io/github/v/release/eclipse-volttron/volttron-lib-auth?include_prereleases&label=&cacheSeconds=300) |
 | [volttron-lib-zmq](https://github.com/eclipse-volttron/volttron-lib-zmq) | ZeroMQ library | ![Release](https://img.shields.io/github/v/release/eclipse-volttron/volttron-lib-zmq?include_prereleases&label=&cacheSeconds=300) |
 | [volttron](https://github.com/eclipse-volttron/volttron) | VOLTTRON repository | ![Release](https://img.shields.io/github/v/release/eclipse-volttron/volttron-zmq?include_prereleases&label=&cacheSeconds=300) |
 | [volttron-zmq](https://github.com/eclipse-volttron/volttron-zmq) | ZeroMQ message bus | ![Release](https://img.shields.io/github/v/release/eclipse-volttron/volttron-zmq?include_prereleases&label=&cacheSeconds=300) |
@@ -22,6 +21,7 @@ The following repositories represent the key components of the Eclipse VOLTTRON 
 
 | Repository | Description | Latest Release |
 |------------|-------------|----------------|
+| [volttron-testing](https://github.com/eclipse-volttron/volttron-testing) | Testing framework | ![Release](https://img.shields.io/github/v/release/eclipse-volttron/volttron-testing?include_prereleases&label=&cacheSeconds=300) |
 | [volttron-lib-web](https://github.com/eclipse-volttron/volttron-lib-web) | REST based VOLTTRON web endpoints | ![Release](https://img.shields.io/github/v/release/eclipse-volttron/volttron-lib-web?include_prereleases&label=&cacheSeconds=300) |
 | [platform-lookup](https://github.com/eclipse-volttron/platform-lookup) | Platform lookup service | ![Release](https://img.shields.io/github/v/release/eclipse-volttron/platform-lookup?include_prereleases&label=&cacheSeconds=300) |
 | [volttron-ansible](https://github.com/eclipse-volttron/volttron-ansible) | Ansible playbooks for VOLTTRON | ![Release](https://img.shields.io/github/v/release/eclipse-volttron/volttron-ansible?include_prereleases&label=&cacheSeconds=300) |
